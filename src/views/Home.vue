@@ -59,9 +59,9 @@
 </template>
 
 <script setup>
-import About from "About.vue";
-import Project from "Project.vue";
-import Contact from "Contact.vue";
+import About from "./About.vue";
+import Project from "./Project.vue";
+import Contact from "./Contact.vue";
 </script>
 
 <style scoped>
