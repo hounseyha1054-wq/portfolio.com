@@ -43,7 +43,7 @@
           data-aos="zoom-in"
         >
           <img
-            src="/image/admin.png"
+            src="/image/IG.png"
             class="img-fluid hero-img shadow-lg rounded-circle"
             alt="Profile"
           />
@@ -59,9 +59,9 @@
 </template>
 
 <script setup>
-import About from "./About.vue";
-import Project from "./Project.vue";
-import Contact from "./Contact.vue";
+import About from "About.vue";
+import Project from "Project.vue";
+import Contact from "Contact.vue";
 </script>
 
 <style scoped>
@@ -74,7 +74,7 @@ import Contact from "./Contact.vue";
 
 /* Hero image */
 .hero-img {
-  max-width: 260px;
+  max-width: 300px;
   background: #fff;
   padding: 6px;
   transition: transform 0.4s ease;

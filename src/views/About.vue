@@ -57,7 +57,7 @@
               <ul class="list-unstyled mt-4">
                 <li class="mb-2">
                   <i class="bi bi-envelope-fill text-info me-2"></i>
-                  <strong>Email:</strong> seyha@example.com
+                <strong>Email:</strong>Hounseyha1054@gmail.com
                 </li>
                 <li class="mb-2">
                   <i class="bi bi-geo-alt-fill text-info me-2"></i>
